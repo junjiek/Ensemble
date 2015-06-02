@@ -1,0 +1,9 @@
+姓名：柯均洁
+学号：2012011335 
+邮箱：kjj3300@163.com
+手机：13718883289
+
+运行方法：
+1. 创建result文件夹，将ContentNewLinkAllSample.csv放在当前目录下
+2. 运行：python ensemble.py
+（需要安装scikit-learn的python包）
